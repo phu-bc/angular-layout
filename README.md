@@ -23,10 +23,10 @@ Update guide - see: [https://update.angular.io](https://update.angular.io)
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/phu-bc/angular-layout.git my-project
+$ git clone https://github.com/phu-bc/angular-layout.git
 
 # go into app's directory
-$ cd my-project
+$ cd angular-layout
 
 # install app's dependencies
 $ npm install
@@ -47,7 +47,7 @@ $ ng build
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-free-angular-admin-template/
+angular-layout/
 ├── e2e/
 ├── src/
 │   ├── app/
